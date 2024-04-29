@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// CALL BY REFERENCE
+// CALL BY REFERENCE.
 void swap(int &x, int &y)
 {
   int temp;
