@@ -8,12 +8,9 @@
 <h2> Questions List </h2>
 </div>
 
-| Chapter 3  | Question Description                                                                   |
-| ---------- | -------------------------------------------------------------------------------------- |
-| Question 1 | Assume that you want to generate a table of multiples of any given number. Write a pro |
-
-gram that allows the user to enter the number and then generates the table, formatting it
-into 10 columns and 20 lines. |
+| Chapter 3  | Question Description                                                                                                                                                                                          |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Question 1 | Assume that you want to generate a table of multiples of any given number. Write a program that allows the user to enter the number and then generates the table, formatting it into 10 columns and 20 lines. |
 
 ## Author
 
